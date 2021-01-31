@@ -1,0 +1,213 @@
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->0
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: no PUEDE escribir.
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->1
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->2
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->3
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->4
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->5
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->6
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->7
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->8
+Suministrador: SALE sección.
+Suministrador: ENTRA sección.
+Suministrador: valor escrito ->9
+Suministrador: SALE sección.
